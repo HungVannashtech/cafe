@@ -9,7 +9,7 @@ namespace cafe
 
         public static readonly ClientSettings Instance = SettingsReader.Read<ClientSettings>("Client", "client.json");
 
-        public override string ToString()222222222222222222222222222222
+        public override string ToString()
         {
             return $"Node: {Node}";
             
@@ -22,15 +22,12 @@ namespace cafe
 1111111111111111111111111111111111111111
 1111111111111111111111111111111111111111
                 
-
-            ///11111
-            ///2222
-            ///
-
-
-
-
-
         }
     }
 }
+
+
+222222222222222222222222
+    222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
+    
+    
