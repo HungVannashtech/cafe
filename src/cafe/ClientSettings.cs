@@ -12,6 +12,29 @@ namespace cafe
         public override string ToString()
         {
             return $"Node: {Node}";
+
+            ///11111
+            ///2222
+            ///
+
+
+
+
+
         }
     }
 }
+
+
+
+2222222222222222222
+
+
+
+
+
+3333333333333333333333333
+
+
+
+3333333333333
