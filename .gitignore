@@ -43,3 +43,6 @@ jsconfig.json
 archive/*
 tools/*
 staging/*
+src/cafe/Properties/launchSettings.json
+.vs/cafe/v15/Server/
+src/cafe/logs/
