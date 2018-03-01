@@ -43,3 +43,4 @@ jsconfig.json
 archive/*
 tools/*
 staging/*
+.vs/cafe/v15/Server/
