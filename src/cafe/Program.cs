@@ -238,5 +238,10 @@ namespace cafe
                 ReturnImmediatelyOrDelayed()
             };
         }
+
+        private static void Issue3()
+        {
+
+        }
     }
 }
