@@ -14,6 +14,11 @@ namespace cafe
             return $"Node: {Node}";
         }
 
+        public string A()
+        {
+            return "";
+        }
+
         public string F()
         {
             return "";
