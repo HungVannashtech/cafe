@@ -19,5 +19,10 @@ namespace cafe
             return "";
         }
 
+        public string B()
+        {
+            return "";
+        }
+
     }
 }
