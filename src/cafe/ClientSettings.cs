@@ -33,10 +33,10 @@ namespace cafe
         {
             return "";
         }
-
-        public string G()
+        public string B()
         {
             return "";
         }
+
     }
 }
