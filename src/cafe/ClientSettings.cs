@@ -19,6 +19,9 @@ namespace cafe
             return "";
         }
 
-
+        public string G()
+        {
+            return "";
+        }
     }
 }
