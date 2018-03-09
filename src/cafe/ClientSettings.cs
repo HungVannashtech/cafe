@@ -24,5 +24,10 @@ namespace cafe
             return "";
         }
 
+
+        public string C()
+        {
+            return "";
+        }
     }
 }
